@@ -1,0 +1,19 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ImageComments": "SBREF",
+	"ReconMatrixPE": 112,
+	"MultiBandFactor": 2,
+	"EchoTime": 0.022,
+	"RepetitionTime": 1.6,
+	"PhaseEncodingDirection": "j",
+	"SliceDirection": "z",
+	"NumberDummyScan": 6,
+	"EpiFactor": 49,
+	"WaterFatShift": 35.699,
+	"MagneticFieldStrength": 7,
+	"SliceOrder": "ascending",
+	"FlipAngle": 65,
+	"TaskName": "Somatotopy"
+}
